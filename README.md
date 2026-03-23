@@ -1,5 +1,7 @@
 # symphony-rs
 
+**English** | [繁體中文](README_zh-TW.md)
+
 Rust rewrite of [openai/symphony](https://github.com/openai/symphony), implemented against the public `SPEC.md` and the Elixir reference behavior.
 
 This project is a long-running Symphony service, not just a parser scaffold. It includes:
